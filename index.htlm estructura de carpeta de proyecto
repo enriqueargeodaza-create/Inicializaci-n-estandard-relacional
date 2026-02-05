@@ -1,0 +1,12 @@
+/nombre-de-tu-red
+├── /src
+│   ├── /components    # Botones, Feed, Perfiles (UI)
+│   ├── /lib           # Conexión a DB y servicios externos
+│   ├── /hooks         # Lógica de estado y datos
+│   ├── /api           # Rutas del backend (Endpoints)
+│   └── /styles        # Tailwind o CSS Global
+├── /public            # Logos, iconos e imágenes estáticas
+├── /tests             # Pruebas para asegurar que nada falle
+├── .env.example       # Plantilla de variables de entorno
+└── README.md          # Documentación oficial
+  
